@@ -11,7 +11,7 @@ The benchmark includes human-labeled data for testing, a large distantly supervi
 The test data includes 1,000 sentences written by English learners, accompanied by over 16,000 substitution suggestions annotated by 10 native speakers. 
 The training dataset comprises over 3.7 million sentences and 12.7 million suggestions generated through rules. 
 
-![](![](https://tva1.sinaimg.cn/large/008vOhrAly1hdvfxw0o8fj30u00y2tgd.jpg))
+![](https://tva1.sinaimg.cn/large/008vOhrAly1hdvfxw0o8fj30u00y2tgd.jpg)
 
 For example, as illustrated in the figure above, the word “inti-mate” in the first sentence should be replaced with
 “close”, as “intimate” is not suitable for describing relationships between colleagues.
