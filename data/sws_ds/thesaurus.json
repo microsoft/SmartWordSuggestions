@@ -1,0 +1,155 @@
+// empty file as a placeholder, here is an example of data format: 
+
+{
+    "abandonment": [
+        {
+            "sense": "carefree freedom from constraint",
+            "pos": "noun",
+            "example_sentence": "sang at the top of her lungs with complete abandonment in the shower",
+            "Synonyms for": [
+                "abandon",
+                "ease",
+                "lightheartedness",
+                "naturalness",
+                "spontaneity",
+                "spontaneousness",
+                "unconstraint",
+                "uninhibitedness",
+                "unrestraint"
+            ],
+            "Words Related to": [
+                "ardor",
+                "enthusiasm",
+                "exuberance",
+                "fervor",
+                "spirit",
+                "warmth",
+                "zeal",
+                "zealotry",
+                "zealousness",
+                "carelessness",
+                "heedlessness",
+                "impulsiveness",
+                "impulsivity",
+                "indiscretion",
+                "insouciance",
+                "recklessness",
+                "thoughtlessness",
+                "unself-consciousness",
+                "casualness",
+                "offhandedness",
+                "excess",
+                "excessiveness",
+                "immoderacy",
+                "incontinence",
+                "indulgence",
+                "intemperance",
+                "licentiousness",
+                "permissiveness",
+                "wantonness",
+                "wildness",
+                "blank check",
+                "carte blanche",
+                "free hand"
+            ],
+            "Near Antonyms for": [
+                "embarrassment",
+                "reserve",
+                "reticence",
+                "self-consciousness",
+                "uneasiness",
+                "inhibition",
+                "repression",
+                "self-restraint",
+                "suppression",
+                "carefulness",
+                "discreetness",
+                "discretion",
+                "heedfulness",
+                "discipline",
+                "self-command",
+                "self-control",
+                "self-denial",
+                "self-discipline",
+                "self-mastery",
+                "willpower"
+            ],
+            "Antonyms for": [
+                "constraint",
+                "restraint"
+            ]
+        },
+        {
+            "sense": "the act of abandoning",
+            "pos": "noun",
+            "example_sentence": "the law says abandonment by the owner of any building for more than a year entitles the city to sell it",
+            "Synonyms for": [
+                "dereliction",
+                "desertion",
+                "forsaking"
+            ],
+            "Words Related to": [
+                "defection",
+                "tergiversation",
+                "discard",
+                "dumping",
+                "jettisoning"
+            ],
+            "Near Antonyms for": [
+                "retention",
+                "recoupment",
+                "repossession",
+                "retrieval"
+            ],
+            "Antonyms for": [
+                "reclamation"
+            ]
+        },
+        {
+            "sense": "the act of putting an end to something planned or previously agreed to",
+            "pos": "noun",
+            "example_sentence": "the park commissioner cited cost considerations as the main reason for the project's abandonment",
+            "Synonyms for": [
+                "abortion",
+                "calling",
+                "calling off",
+                "cancellation",
+                "cancelation",
+                "dropping",
+                "recall",
+                "recision",
+                "repeal",
+                "rescission",
+                "revocation"
+            ],
+            "Words Related to": [
+                "annulment",
+                "invalidation",
+                "neutralization",
+                "nullification",
+                "voidance",
+                "abolishment",
+                "abolition",
+                "ending",
+                "halting",
+                "stopping",
+                "termination",
+                "giving up",
+                "relinquishment",
+                "surrender",
+                "reversal",
+                "rollback"
+            ],
+            "Near Antonyms for": [
+                "beginning",
+                "commencement",
+                "initiation",
+                "engagement",
+                "undertaking"
+            ],
+            "Antonyms for": [
+                "continuation"
+            ]
+        }
+    ]
+}
