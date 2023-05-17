@@ -1,33 +1,33 @@
-# Project
+# Smart Word Suggestions for Writing Assistance
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains the code and pre-trained models for our paper [Smart Word Suggestions for Writing Assistance]().
 
-As the maintainer of this project, please make a few updates:
+## Overview
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This paper introduces "Smart Word Suggestions" (SWS) task and benchmark. 
+Unlike other works, SWS emphasizes end-to-end evaluation and presents a more realistic writing assistance scenario. 
+This task involves identifying words or phrases that require improvement and providing substitution suggestions. 
+The benchmark includes human-labeled data for testing, a large distantly supervised dataset for training, and the framework for evaluation. 
+The test data includes 1,000 sentences written by English learners, accompanied by over 16,000 substitution suggestions annotated by 10 native speakers. 
+The training dataset comprises over 3.7 million sentences and 12.7 million suggestions generated through rules. 
 
-## Contributing
+![](https://tva1.sinaimg.cn/large/008vOhrAly1hdvfxw0o8fj30u00y2tgd.jpg)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+For example, as illustrated in the figure above, the word “inti-mate” in the first sentence should be replaced with
+“close”, as “intimate” is not suitable for describing relationships between colleagues.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Getting Started
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+The data folder contains all the data, the code folder contains all the baselines. There are corresponding READMEs in the folder. 
 
-## Trademarks
+## Bugs or questions?
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+If you have any questions related to the code or the paper, feel free to email Chenshuo (iven@ivenwang.com) and Shaoguang (shaoguang.mao@microsoft.com). If you encounter any problems when using the code, or want to report a bug, you can open an issue. Please try to specify the problem with details so we can help you better and quicker!
+
+## Citation
+
+Please cite our paper if you use SWS in your work:
+
+```
+
+```
