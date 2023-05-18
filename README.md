@@ -1,6 +1,6 @@
 # Smart Word Suggestions for Writing Assistance
 
-This repository contains the code and pre-trained models for our paper [Smart Word Suggestions for Writing Assistance]().
+This repository contains the code and pre-trained models for our paper [Smart Word Suggestions for Writing Assistance](https://arxiv.org/pdf/2305.09975.pdf).
 
 ## Overview
 
