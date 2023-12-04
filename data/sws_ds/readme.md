@@ -2,8 +2,9 @@
 
 ## Directly Download
 
-https://mtutorresstorage.blob.core.windows.net/swsdata/wiki_170_s-lexical-1-1125.json
+Training Data: [trainingdata](https://mtutorresstorage.blob.core.windows.net/swsdata/wiki_170_s-lexical-1-1125.json?st=2023-12-04T11%3A27%3A44Z&se=2033-12-31T11%3A27%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=Ov605r2nKF83VGtttXGUeQAX%2B9A%2F%2BdTC7t52cRngXR4%3D)
 
+`wget "trainingdata_url"`
 
 ## Manually Generate
 
